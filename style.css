@@ -50,7 +50,7 @@ img {
     display: block;
     border-style:ridge;
     border-color: coral;
-    border-radius: px;
+    border-radius: 10px;
     text-align: center;
     float: right;
     }
